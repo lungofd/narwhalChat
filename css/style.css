@@ -19,3 +19,47 @@ body {
 	text-align: left;
 	padding: 0 15px 15px 15px;
 }
+
+
+#narwhalPicture {
+	height: 150px;
+	width: 150px;
+	border-radius: 100%;
+	padding:15px;
+}
+
+
+
+#about{
+	color:#ffffff;
+	background:#dae0e7; /*bluegray*/
+}
+
+#about h1{
+	text-align: center;
+	font-size: 15px;
+}
+
+
+
+.aboutNarwhal {
+	background: #778492
+
+}
+
+
+#examples .box{
+	text-align: center;
+	padding: 10px;
+
+}
+
+#examples .box img{
+ 	max-height: 300px;
+ 	max-width: 400px;
+	text-align: center;
+}
+
+#examples .box p{
+	text-align: left;
+}
